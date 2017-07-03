@@ -57,6 +57,7 @@ SERVICE_HANDLERS = {
     'openhome': ('media_player', 'openhome'),
     'harmony': ('remote', 'harmony'),
     'bose_soundtouch': ('media_player', 'soundtouch'),
+    'webostv': ('media_player', 'webostv'), 
 }
 
 CONF_IGNORE = 'ignore'
